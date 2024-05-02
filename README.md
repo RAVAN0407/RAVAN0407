@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @RAVAN0407
+- 👋 Hi, I’m Bhanu
 - 👀 I’m interested in firmware development
 - 🌱 I’m currently learning go language/web development
 - 📫 you can reach me on bhanu40071@gmail.com
